@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude scientific skills from K-Dense Inc",
-    "version": "2.17.0"
+    "version": "2.18.0"
   },
   "plugins": [
     {
@@ -133,6 +133,8 @@
         "./scientific-skills/citation-management",
         "./scientific-skills/clinical-decision-support",
         "./scientific-skills/clinical-reports",
+        "./scientific-skills/medical-education-research",
+        "./scientific-skills/psychology-research",
         "./scientific-skills/generate-image",
         "./scientific-skills/latex-posters",
         "./scientific-skills/market-research-reports",
